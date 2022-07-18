@@ -1,0 +1,21 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview --port 5050"
+  },
+  "dependencies": {
+    "@breq/roslib": "^0.1.4",
+    "@chenfengyuan/vue-countdown": "^2.0.0",
+    "libjs": "^0.3.0",
+    "vue": "^3.2.31",
+    "vue-circular-count-down-timer": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/roslib": "^1.1.8",
+    "@vitejs/plugin-vue": "^2.3.1",
+    "vite": "^2.9.1"
+  }
+}
