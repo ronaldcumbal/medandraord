@@ -1,0 +1,35 @@
+<launch>
+
+	<arg name="global_language" default="sv-SE"  />
+	<arg name="global_condition" default="experiment"  />
+
+	<node pkg="beginner_tutorials" name="microphone_left" type="microphone_left.py" output="screen" />
+		<param name="language" type="string" value="$(arg global_language)" />
+		<param name="device_name_left" type="string" value="Jabra UC VOICE 150a MS: USB Audio (hw:3,0)" />
+
+	<node pkg="beginner_tutorials" name="microphone_right" type="microphone_right.py" output="screen" />
+		<param name="language" type="string" value="$(arg global_language)" />
+		<param name="device_name_right" type="string" value="Jabra UC VOICE 150a MS: USB Audio (hw:5,0)" />
+
+	<node pkg="beginner_tutorials" name="wizardCommands" type="wizardCommands.py" output="screen" launch-prefix="gnome-terminal --command" />
+
+	<node pkg="beginner_tutorials" name="guessComputation" type="guessComputation.py" output="screen" />
+		<param name="language" type="string" value="$(arg global_language)" />
+
+	<node pkg="beginner_tutorials" name="gameHandler" type="gameHandler.py" output="screen" launch-prefix="gnome-terminal --command" />
+		<param name="language" type="string" value="$(arg global_language)" />
+
+	<node pkg="beginner_tutorials" name="furhatBridge" type="furhatBridge.py" output="screen" />
+		<param name="language" type="string" value="$(arg global_language)" />
+		<param name="robot_present" type="bool" value="true" />
+
+	<node pkg="beginner_tutorials" name="behaviorModule" type="behaviorModule.py" output="screen" />
+		<param name="language" type="string" value="$(arg global_language)" />
+		<param name="condition" type="string" value="$(arg global_condition)" />
+		<param name="robot_present" type="bool" value="true" />
+
+	<include file="$(find rosbridge_server)/launch/rosbridge_websocket.launch"> 
+		<arg name="port" value="8080"/>
+	</include>
+
+</launch>

@@ -1,0 +1,25 @@
+easy:
+- Guldmedalj,C1,gold medal,guldmedalj
+- Skinka,B1,ham,skinka
+- Blixt,B1,lightning,blixt
+- Personbil,
+- Älg,
+- Ketchup,
+- Semla,
+- Karta,
+hard:
+- Radhus,B1,terraced house,radhus
+- Underverk,B2,wonder,underverk
+- Folkomröstning,C1,referendum,folkomrostning
+- Resmål,B1,destination,resmal
+- Trumslagare,C1,drummer,trumslagare
+- Spelkonsol,
+- Återvinningscentral,
+medium:
+- Höjdhopp,C1,high jump,hojdhopp
+- Lösenord,C1,password,losenord
+- Snabbmat,C1,fast food,snabbmat
+- Bärnsten,C1,amber,barnsten
+- Äppelmos,
+- Brödkniv,
+- Hundvalp,

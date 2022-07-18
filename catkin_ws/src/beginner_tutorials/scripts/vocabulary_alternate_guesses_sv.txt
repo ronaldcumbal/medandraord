@@ -1,0 +1,232 @@
+guldmedalj:
+- guld
+- titeln
+- medalj
+- silvermedalj
+- podium
+- förstaplats
+- vinst
+- seger
+skinka:
+- kött
+- choklad
+- smör
+- ost
+- bacon
+- salami
+- paprika
+- gurka
+- avokado
+- sallad
+blixt:
+- ljus
+- regn
+- storm
+- åska
+- hagel
+- snöstorm
+- sol
+- värme 
+radhus:
+- hus
+- villa
+- byggnad
+- lägenhet
+- boende
+- husrum
+- trädgård
+- stuga
+- höghus
+- fastighet
+underverk:
+- dröm
+- tempel
+- mästerverk
+- pyramider
+- antikt
+- mausoleum
+- byggnad
+- höghus
+- palats
+- monument
+folkomröstning:
+- regering
+- politik
+- parti
+- beslutet
+- demokrati
+- förhandlingarna
+- rösträtt
+- debatt
+- förslag
+- motion
+resmål:
+- hotell
+- aktiviteter
+- öar
+- orter
+- destinationer
+- storstad
+- landskap
+- charter
+- semester
+- solstrand
+- stad
+trumslagare:
+- musiker
+- sångare
+- kompositör
+- dj
+- gitarrist
+- dirigent
+- violinist
+- pianist
+- flöjtspelare
+höjdhopp:
+- stavhopp
+- maraton
+- löptävling
+- staffett
+- femkamp
+- triathlon
+- diskuskastning
+- häcklöpning
+- spjutkastning
+- släggkastning
+- kulstötning
+lösenord:
+- konto
+- uppgifter
+- kod
+- mejl
+- telefonnummer
+- email
+- användarnamn
+- webbsida
+- inloggning
+snabbmat:
+- frukost
+- middag
+- lunch
+- efterrätt
+- hamburgare
+- pizza
+- friterat
+- pommesfrites
+- läsk
+- restaurang
+- nudlar
+bärnsten:
+- guld
+- stenar
+- pärlor
+- diamanter
+- silver
+- safir
+- smaragd
+- rubin
+- opal
+- korall
+- heliotrop
+personbil:
+- buss
+- motorcykel
+- lastbil
+- ambulans
+- cykel
+- husbil
+- terrängfordon
+- brandbil
+- hjul
+- däck
+älg:
+- ren
+- rådjur
+- räv
+- varg
+- lodjur
+- kronhjort
+- kanin
+- vildsvin
+- björn
+- järv
+- mårddjur
+- tjur
+- get
+ketchup:
+- senap
+- majonnäs
+- bostongurka
+- sojasås
+- chilisås
+- remouladsås
+- dressing
+- hollandaisesås
+semla:
+- kanelbulle
+- budapestbakelse
+- mazarin
+- toscakaka
+- kladdkaka
+- princesstårta
+- dammsugare
+- kardemummabulle
+- kanellängd
+karta:
+- papper
+- gps
+- atlas
+- planritning
+- land
+- stad
+- guide
+- lantmäteri
+spelkonsol:
+- speldator
+- dator
+- laptop
+- mobilspel
+- tv-apparat
+- datorskärm
+- spel
+- fjärrkontroll
+återvinningscentral:
+- soptipp
+- avfall
+- deponi
+- pantmaskin
+- soptunna
+- sopkärl
+- papperskorg
+- avfallsförbränning
+äppelmos:
+- sylt
+- marmelad
+- pålägg
+- gröt
+- konserv
+- kompott
+- inläggning
+- smörgåsgurka
+- tillbehör
+hundvalp:
+- kanin
+- kattunge
+- marsvin
+- barn
+- bebis
+- husdjur
+- unge
+- yngel
+- föl
+- lamm
+brödkniv:
+- fralla
+- skärbräda
+- baguette
+- köttkniv
+- grönsakskniv
+- limpa
+- surdegsbröd
+- knivslip
+- knäckebröd

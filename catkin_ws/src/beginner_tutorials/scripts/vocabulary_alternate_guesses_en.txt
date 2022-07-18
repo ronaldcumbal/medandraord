@@ -1,0 +1,151 @@
+medal:
+- award
+- prize
+- recognition
+- title
+- congratulation
+- gift
+- trophy
+- honor
+- reward
+- grant
+ham:
+- meat
+- butter
+- cheese
+- bacon
+- salami
+- sausage
+- pepperoni
+- hotdog
+- cow
+- chorizo
+lighting:
+- light
+- rain
+- storm
+- thunder
+- beam
+- thunderbolt
+- shining
+- lighthouse
+- lamp
+- beacon
+moose:
+- deer
+- fox
+- wolf
+- lynx
+- rabbit
+- bear
+- wolverine
+- horse
+- buffalo
+ketchup:
+- mustard
+- mayonnaise
+- sauce
+- dressing
+- salt
+- sugar
+- hot sauce
+- pepper
+- honey
+map:
+- paper
+- atlas
+- land
+- city
+- guide
+- drawing
+townhouse:
+- house
+- villa
+- building
+- hut
+- home
+- shelter
+- hotel
+- hostel
+- accommodation
+- cottage
+wonder:
+- dream
+- temple
+- masterpiece
+- pyramids
+- art
+- marvel
+- phenomenon
+- miracle
+- magical
+voting:
+- government
+- politics
+- party
+- decision
+- democracy
+- negotiation
+- referendum
+- poll
+- election
+- selection
+drummer:
+- musician
+- singer
+- composer
+- dj
+- guitarist
+- artist
+- player
+- entertainer
+- performer
+- vocalist
+recycling:
+- dumping
+- wasting
+- landfill
+- trash
+- garbage
+- composting
+password:
+- code
+- secret
+- account
+- settings
+- emails
+- login
+- form
+- username
+- browser
+- server
+food:
+- breakfast
+- dinner
+- lunch
+- bread
+- fruits
+- meat
+- cuisine
+- snacks
+- meals
+- bread
+amber:
+- gold
+- stone
+- pearl
+- diamond
+- silver
+- jewel
+- gem
+- bead
+- ruby
+- rock
+puppy:
+- rabbit
+- kitten
+- children
+- baby
+- pets
+- young
+- angel

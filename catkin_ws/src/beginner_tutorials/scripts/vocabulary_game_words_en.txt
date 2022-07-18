@@ -1,0 +1,18 @@
+easy:
+- medal,C1,gold medal,guldmedalj
+- ham,B1,ham,skinka
+- lighting,B1,lightning,blixt
+- moose,
+- ketchup,
+- map,
+hard:
+- townhouse,B1,terraced house,radhus
+- wonder,B2,wonder,underverk
+- voting,C1,voting,folkomrostning
+- drummer,C1,drummer,trumslagare
+- recycling,
+medium:
+- password,C1,password,losenord
+- food,C1,fast food,snabbmat
+- amber,C1,amber,barnsten
+- puppy,
